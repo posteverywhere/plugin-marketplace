@@ -390,7 +390,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/posteverywhere/claude-plugin.git",
-        "sha": "0a5213e5c95b9f4336a359257963064022ce4074"
+        "sha": "b4d11c1dfbf203bcf0728eaa2d62c2ff70f1ba5f"
       },
       "homepage": "https://posteverywhere.ai",
       "keywords": ["posteverywhere", "post everywhere", "posteverywhere schedule post"],
